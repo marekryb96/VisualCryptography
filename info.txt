@@ -1,0 +1,11 @@
+Aplikacja zgodnie z ide¹ kryptografi wizualnej s³u¿y do bezpiecznego szyfrowania obrazów. Pojedynczy obraz dzielony jest na 2 obrazy nazywane udzia³ami. 
+
+Zaimplementowany w aplikacji algorytm obs³uguje tylko obrazy czarno bia³e. 
+
+Ka¿dy z pikseli pierwotnego obrazu dzielony jest na 4 (sub)piksele. W zale¿noœci od tego czy dany piksel kodowanego obrazu jest bia³y czy czarny to do jego reprezentacji na dwóch udzia³ach zostanie losowo z poœród 6 mo¿liwoœci, wybrana kombinacja 4 subpikseli, poniewa¿ aplikacja realizuje schemat stopnia (2, 2). 
+
+Po odpowiednim na³o¿eniu obu udzia³ów dla bia³ego piksela z pierwotnego obrazu otrzymane zostanie wra¿enie koloru szarego, natomiast dla piksela koloru czarnego, wra¿enie koloru czarnego.
+
+¯aden z udzia³ów nie zawiera ¿adnej widocznej informacji o obrazie pierwotnym, poniewa¿ subpiksele s¹ równomiernie roz³o¿one w poszczególnych udzia³ach.  
+
+Autor aplikacji : Marek Rybicki

@@ -1,0 +1,11 @@
+Aplikacja s³u¿y do bezpiecznego szyfrowania obrazów. Pojedynczy obraz dzielony jest na 2 obrazy nazywane udzia³ami.
+
+1. Aplikacja obs³uguje tylko obrazy czarno bia³e, ale umo¿liwia zamianê dowolnego obrazu, na obraz czarno bia³y. W celu zamiany obrazu na czarnobia³y proszê u¿yæ przycisku Wczytaj obraz i wykonaj w sekcji PROGOWANIE.
+
+2. W celu zaszyfrowania obrazu prosze u¿yæ przycisku Wczytaj obraz i wykonaj w sekcji UKRYWANIE. Wczeœniej nale¿y wprowadziæ nazwy dla tworzonych plików w, których zostan¹ zapisane udzia³y. Zostanie wyœwietlony podgl¹d (1/2 oryginalnego rozmiaru) wygenerowanych udzia³ów.
+3. W celu zdeszyfrowania obrazu podzielonego na 2 udzia³y, proszê wczytaæ obrazy zawieraj¹ce udzia³y korzystaj¹c z przycisków Wczytaj udzia³ w sekcji NAK£ADANIE UDZIA£ÓW. Wczeœniej nale¿y wprowadziæ nazwê dla tworzonego pliku w, którym zostanie zapisany wynik na³o¿enia udzia³ów (deszyfrowania). 
+Nastêpnie proszê u¿yæ przycisku Wykonaj.
+
+W przypadku b³êdnego postêpowania aplikacja wyœwietla odpowiednie komunikaty.
+
+
